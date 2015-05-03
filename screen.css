@@ -1,0 +1,35 @@
+body{
+	font-family: 'Verdana';
+	text-align: center;
+	margin-top: 200px;
+}
+form
+{
+    align:"center";
+}
+div{
+	max-width:400px;
+	margin:0 auto;
+}
+input{
+	width: 350px;
+	height: 30px;
+	text-align: center;
+	color: #8D81FF;
+}
+p{
+	text-align: center;
+}
+#button{
+	width: 360px;
+	height: 40px;
+	background-color: #8D81FF;
+	color: #ffffff;
+}
+#button:hover{
+	background-color: #534C96;
+}
+h2{
+	color: #8D81FF;
+	text-align: center;
+}
